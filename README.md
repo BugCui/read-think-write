@@ -10,3 +10,7 @@ Read something, Think something, Write something !
 [关于团队管理](./202109/about_team_manger.md)
 
 [车联网调研](./202109/car_network.md)
+
+
+一些想法：
+* 墨守成规，循规蹈矩往往很难得利。
