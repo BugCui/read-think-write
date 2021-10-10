@@ -16,3 +16,4 @@ Read something, Think something, Write something !
 * 墨守成规，循规蹈矩往往很难得利。
 * 🚩国庆快乐！
 * 天，国庆又胖了3斤！
+* haas edu 开发版总算玩明白点了，不断突破的过程太爽了！
