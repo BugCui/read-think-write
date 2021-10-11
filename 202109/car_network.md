@@ -25,7 +25,7 @@
 </table>
 
 
-
+## 车联网现状
 
 
 <br/><br/><br/>
@@ -35,3 +35,6 @@
 > 
 > 国内车联网领域头部企业大盘点 - 赛文交通网的文章 - 知乎
 https://zhuanlan.zhihu.com/p/340934823
+> 蔚来、理想、小鹏三家新势力造车公司，哪家最有可能先倒下？ - Longbridge 长桥的回答 - 知乎
+https://www.zhihu.com/question/436315339/answer/2022823331
+> 
