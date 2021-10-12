@@ -18,3 +18,4 @@ Read something, Think something, Write something !
 * 天，国庆又胖了3斤！
 * haas edu 开发版总算玩明白点了，不断突破的过程太爽了！
 * 时不时能有几个好哥们聚一聚太爽了！
+* 哎，自助驱动工作太难了！
