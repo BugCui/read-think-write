@@ -5,11 +5,11 @@ Read something, Think something, Write something !
 
 只想用文字记录时间！
 
-[雨夜](./202109/rain_day.md)
+[雨夜](./2021/rain_day.md)
 
-[关于团队管理](./202109/about_team_manger.md)
+[关于团队管理](./2021/about_team_manger.md)
 
-[车联网调研](./202109/car_network.md)
+[车联网调研](./2021/car_network.md)
 
 
 一些想法：
