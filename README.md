@@ -11,6 +11,8 @@ Read something, Think something, Write something !
 
 [车联网调研](./2021/car_network.md)
 
+[我的读书清单](./booklist/booklist.md)
+
 
 一些想法：
 * 墨守成规，循规蹈矩往往很难得利。
