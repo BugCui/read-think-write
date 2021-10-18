@@ -22,3 +22,4 @@ Read something, Think something, Write something !
 * 时不时能有几个好哥们聚一聚太爽了！
 * 哎，自助驱动工作太难了！
 * 做点实事吧！
+* 每周能出去玩一玩，逛一逛还是不错的！
