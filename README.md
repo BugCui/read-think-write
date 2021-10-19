@@ -23,3 +23,4 @@ Read something, Think something, Write something !
 * 哎，自助驱动工作太难了！
 * 做点实事吧！
 * 每周能出去玩一玩，逛一逛还是不错的！
+* 一天又一天。
