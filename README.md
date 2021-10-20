@@ -15,6 +15,7 @@ Read something, Think something, Write something !
 
 [WLB（Work Life Balance）工作生活平衡](./2021/wlb.md)
 
+[carbon neutral (碳中和)](./2021/carbon_neutral.md)
 
 一些想法：
 * 墨守成规，循规蹈矩往往很难得利。
