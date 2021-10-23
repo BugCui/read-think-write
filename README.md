@@ -29,3 +29,4 @@ Read something, Think something, Write something !
 * 一天又一天。
 * 没事做比忙的要死更难受！
 * 做一件事情现不要把目标定的太高，否则很可能半途而废。
+* 去天坛玩一圈。
