@@ -17,6 +17,8 @@ Read something, Think something, Write something !
 
 [carbon neutral 『碳中和』](./2021/carbon_neutral.md)
 
+[distribution of three times『三次分配』](./2021/three_distribution.md)
+
 一些想法：
 * 墨守成规，循规蹈矩往往很难得利。
 * 🚩国庆快乐！
