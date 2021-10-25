@@ -21,7 +21,7 @@ Read something, Think something, Write something !
 
 一些想法：
 * 墨守成规，循规蹈矩往往很难得利。
-* 🚩国庆快乐！
+* 国庆快乐🚩！
 * 天，国庆又胖了3斤！
 * haas edu 开发版总算玩明白点了，不断突破的过程太爽了！
 * 时不时能有几个好哥们聚一聚太爽了！
@@ -32,3 +32,4 @@ Read something, Think something, Write something !
 * 没事做比忙的要死更难受！
 * 做一件事情现不要把目标定的太高，否则很可能半途而废。
 * 去天坛玩一圈。
+* 新的一周开始了，努力工作，加油💪！
