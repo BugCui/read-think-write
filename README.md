@@ -21,7 +21,9 @@ Read something, Think something, Write something !
 
 [『关于认知』](./2021/renzhi.md)
 
-一些想法：
+<br>
+
+一些想法💡：
 * 墨守成规，循规蹈矩往往很难得利。
 * 国庆快乐🚩！
 * 天，国庆又胖了3斤！
