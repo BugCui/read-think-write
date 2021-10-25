@@ -25,3 +25,11 @@
 这个社会有100种方法收割你
 
 直到你的认知和财富相匹配为止
+
+
+<br>
+<br>
+
+# 飞书团队的认知偏差手册
+
+[『阅读查看』](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf#)
