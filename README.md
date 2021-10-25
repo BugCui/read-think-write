@@ -5,19 +5,21 @@ Read something, Think something, Write something !
 
 只想用文字记录时间！
 
-[雨夜](./2021/rain_day.md)
+[『雨夜』](./2021/rain_day.md)
 
-[关于团队管理](./2021/about_team_manger.md)
+[『关于团队管理』](./2021/about_team_manger.md)
 
-[车联网调研](./2021/car_network.md)
+[『车联网调研』](./2021/car_network.md)
 
-[我的读书清单](./booklist/booklist.md)
+[『我的读书清单』](./booklist/booklist.md)
 
-[WLB『工作生活平衡』](./2021/wlb.md)
+[『WLB 工作生活平衡』](./2021/wlb.md)
 
-[carbon neutral 『碳中和』](./2021/carbon_neutral.md)
+[『carbon neutral 碳中和』](./2021/carbon_neutral.md)
 
-[distribution of three times『三次分配』](./2021/three_distribution.md)
+[『distribution of three times 三次分配』](./2021/three_distribution.md)
+
+[『关于认知』](./2021/renzhi.md)
 
 一些想法：
 * 墨守成规，循规蹈矩往往很难得利。
