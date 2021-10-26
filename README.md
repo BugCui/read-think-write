@@ -37,3 +37,4 @@ Read something, Think something, Write something !
 * 做一件事情现不要把目标定的太高，否则很可能半途而废。
 * 去天坛玩一圈。
 * 新的一周开始了，努力工作，加油💪！
+* 保持初心，保持热爱！
