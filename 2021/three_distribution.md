@@ -90,7 +90,9 @@
 
 先看一下[中国税收税种税率表](http://filed.jieshui8.com/df8/df81ee20413229549770f0ec0f9b044f.png)。
 
-    
+『kkndme十年前对房价的预测？』
+
+[「2010年的房地产调控，我们收获了什么？写在房价暴涨前」](https://github.com/shengcaishizhan/kkndme_tianya)
 
 
 
