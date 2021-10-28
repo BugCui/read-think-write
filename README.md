@@ -21,6 +21,8 @@ Read something, Think something, Write something !
 
 [『关于认知』](./2021/renzhi.md)
 
+[『一些扯淡』](./2021/by_talk.md)
+
 <br>
 
 一些想法💡：
