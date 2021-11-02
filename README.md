@@ -42,3 +42,4 @@ Read something, Think something, Write something !
 * 保持初心，保持热爱！
 * 又周末了！
 * 希望是个忙碌的一天，加油！
+* 慌慌张张，匆匆忙忙。
