@@ -43,3 +43,4 @@ Read something, Think something, Write something !
 * 又周末了！
 * 希望是个忙碌的一天，加油！
 * 慌慌张张，匆匆忙忙。
+* 为何生活总是这样，鱼与熊掌不可兼得也！渍渍渍!
