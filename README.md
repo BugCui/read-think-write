@@ -45,3 +45,4 @@ Read something, Think something, Write something !
 * 慌慌张张，匆匆忙忙。
 * 为何生活总是这样，鱼与熊掌不可兼得也！渍渍渍!
 * 开始学习深度学习，探索新的未知。
+* 新的一周开始了，加油！
