@@ -47,3 +47,4 @@ Read something, Think something, Write something !
 * 开始学习深度学习，探索新的未知。
 * 北京要下雪了，期待~
 * 新的一周开始了，加油！
+* 来新同事了，架构师级别，慌~
