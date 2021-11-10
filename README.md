@@ -48,3 +48,4 @@ Read something, Think something, Write something !
 * 北京要下雪了，期待~
 * 新的一周开始了，加油！
 * 来新同事了，架构师级别，慌~
+* 哎！一言难尽呐！
