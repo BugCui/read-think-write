@@ -49,3 +49,4 @@ Read something, Think something, Write something !
 * 新的一周开始了，加油！
 * 来新同事了，架构师级别，慌~
 * 哎！一言难尽呐！希望架构师能带带我吧！
+* 新的一天，加油吧！
