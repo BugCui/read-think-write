@@ -50,3 +50,4 @@ Read something, Think something, Write something !
 * 来新同事了，架构师级别，慌~
 * 哎！一言难尽呐！希望架构师能带带我吧！
 * 新的一天，加油吧！
+* 自我驱动，自我成长，嗯！
