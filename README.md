@@ -51,3 +51,4 @@ Read something, Think something, Write something !
 * 哎！一言难尽呐！希望架构师能带带我吧！
 * 新的一天，加油吧！
 * 自我驱动，自我成长，嗯！
+* 今年不再钓鱼了！
