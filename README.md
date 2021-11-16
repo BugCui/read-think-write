@@ -52,3 +52,4 @@ Read something, Think something, Write something !
 * 新的一天，加油吧！
 * 自我驱动，自我成长，嗯！
 * 今年不再钓鱼了！
+* 新买的mac进水了，心疼啊！
