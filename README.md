@@ -53,3 +53,4 @@ Read something, Think something, Write something !
 * 自我驱动，自我成长，嗯！
 * 今年不再钓鱼了！
 * 新买的mac进水了，心疼啊！
+* 今天是工作最充实的一天！
