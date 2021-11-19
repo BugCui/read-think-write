@@ -55,3 +55,4 @@ Read something, Think something, Write something !
 * 新买的mac进水了，心疼啊！
 * 今天是工作最充实的一天！
 * 总算有点收获！
+* 不断改变自己认知，对行业，对社会，对世界！
