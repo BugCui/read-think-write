@@ -56,3 +56,4 @@ Read something, Think something, Write something !
 * 今天是工作最充实的一天！
 * 总算有点收获！
 * 不断改变自己认知，对行业，对社会，对世界！
+* 新的一周开始了，加油！
