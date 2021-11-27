@@ -60,6 +60,3 @@ Read something, Think something, Write something !
 * 只要你想，就努力去做！
 * 论在一个优秀团队的重要性！😞
 
-* 北京要下雪了，期待~u
-* 北京要下雪了，期待~n
-* 北京要下雪了，期待~
