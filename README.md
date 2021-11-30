@@ -61,3 +61,4 @@ Read something, Think something, Write something !
 * 论在一个优秀团队的重要性！😞
 * hahhahahaha!
 * 财富流游戏值得研究一下！
+* 要开始忙碌了！
