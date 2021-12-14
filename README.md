@@ -68,3 +68,4 @@ Read something, Think something, Write something !
 * 好累啊!
 * 卷！
 * 忙碌且充实着！
+* 又是新的一天，加油！
