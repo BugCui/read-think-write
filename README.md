@@ -70,3 +70,4 @@ Read something, Think something, Write something !
 * 忙碌且充实着！
 * 又是新的一天，加油！
 * 新的一天，加油搞事！
+* 又周五了，真快~
