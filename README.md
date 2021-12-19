@@ -72,3 +72,4 @@ Read something, Think something, Write something !
 * 新的一天，加油搞事！
 * 又周五了，真快~
 * 想做一个小程序！
+* 今天天气可真不错！
