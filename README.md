@@ -74,3 +74,4 @@ Read something, Think something, Write something !
 * 想做一个小程序！
 * 今天天气可真不错！
 * 新的一周开始了，加油@
+* 论code review的重要性！
