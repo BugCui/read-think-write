@@ -75,3 +75,4 @@ Read something, Think something, Write something !
 * 今天天气可真不错！
 * 新的一周开始了，加油@
 * 论code review的重要性！
+* 今天把一个接口从s级别优化到ms级别，开心！
