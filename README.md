@@ -64,7 +64,7 @@ Read something, Think something, Write something !
 * 要开始忙碌了！
 * aaaa!
 * 忙碌起来了！
-* is so so busy!
+* is so so busy!i
 * 好累啊!
 * 卷！
 * 忙碌且充实着！
@@ -76,3 +76,4 @@ Read something, Think something, Write something !
 * 新的一周开始了，加油@
 * 论code review的重要性！
 * 今天把一个接口从s级别优化到ms级别，开心！
+* 一周真快，今天又周四了.
