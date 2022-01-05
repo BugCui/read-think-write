@@ -84,3 +84,4 @@ Read something, Think something, Write something !
 * 元旦快乐！
 * 优化接口，累并充实着!
 * 好累啊！
+* 新的一天，整备咖啡，继续干！
