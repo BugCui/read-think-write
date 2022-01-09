@@ -86,3 +86,4 @@ Read something, Think something, Write something !
 * 好累啊！
 * 新的一天，整备咖啡，继续干！
 * 这周真是累死我了！不过成长很大，继续干！
+* 功勋！
