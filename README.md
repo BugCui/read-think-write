@@ -88,3 +88,4 @@ Read something, Think something, Write something !
 * 这周真是累死我了！不过成长很大，继续干！
 * 功勋！
 * 新的一周开始了，加油！
+* 加油！
