@@ -90,3 +90,4 @@ Read something, Think something, Write something !
 * 新的一周开始了，加油！
 * 加油！
 * 工单可真烦人！
+* 周四了，真快！
