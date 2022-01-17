@@ -92,3 +92,4 @@ Read something, Think something, Write something !
 * 工单可真烦人！
 * 周四了，真快！
 * 周五了，太快!
+* 一晃又周一，马上过年了!
