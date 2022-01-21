@@ -94,4 +94,5 @@ Read something, Think something, Write something !
 * 周五了，太快!
 * 一晃又周一，马上过年了!
 * 大胆尝试！
-* 北京的大学真是太好看了！
+* 北京的大雪真是太好看了！
+* 周五了，马上过年了！
