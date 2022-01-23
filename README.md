@@ -96,3 +96,5 @@ Read something, Think something, Write something !
 * 大胆尝试！
 * 北京的大雪真是太好看了！
 * 周五了，马上过年了！
+* 丰台这疫情又起来了！
+
