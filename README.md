@@ -98,3 +98,4 @@ Read something, Think something, Write something !
 * 周五了，马上过年了！
 * 丰台这疫情又起来了！
 * 年会第二天，好运快来！
+* 回家真难，国外也这样吗？
