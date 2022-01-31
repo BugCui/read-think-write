@@ -99,3 +99,5 @@ Read something, Think something, Write something !
 * 丰台这疫情又起来了！
 * 年会第二天，好运快来！
 * 回家真难，国外也这样吗？
+* 过年回家，一路平安@
+* 瑞雪兆丰年啊！
