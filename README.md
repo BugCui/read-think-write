@@ -101,3 +101,4 @@ Read something, Think something, Write something !
 * 回家真难，国外也这样吗？
 * 过年回家，一路平安@
 * 瑞雪兆丰年啊！
+* 开工第二天，新年行大运！
