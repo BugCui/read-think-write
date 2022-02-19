@@ -105,3 +105,5 @@ Read something, Think something, Write something !
 * 开工第三天，忙碌了起来！
 * 忙忙碌碌的生活，学习，健康，娱乐！
 * 干，但要注意身体！
+* 认清公司的丑恶！噗！!
+* 应该静下心来思考自己的职业规划！
