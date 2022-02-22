@@ -109,3 +109,4 @@ Read something, Think something, Write something !
 * 应该静下心来思考自己的职业规划！
 * 不断学习，才能突破自己！
 * GAN!
+* 又是一天，干就对了！
