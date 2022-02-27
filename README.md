@@ -113,3 +113,4 @@ Read something, Think something, Write something !
 * 吃人的世界！
 * 忙忙碌碌！
 * 世界大战!
+* 希望早日和平！
