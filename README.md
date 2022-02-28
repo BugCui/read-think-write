@@ -114,3 +114,4 @@ Read something, Think something, Write something !
 * 忙忙碌碌！
 * 世界大战!
 * 希望早日和平！
+* 周一了，干！
