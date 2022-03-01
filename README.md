@@ -115,3 +115,4 @@ Read something, Think something, Write something !
 * 世界大战!
 * 希望早日和平！
 * 周一了，干！
+* 谈判结束，结果如何？
