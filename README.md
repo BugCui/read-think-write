@@ -117,3 +117,4 @@ Read something, Think something, Write something !
 * 周一了，干！
 * 谈判结束，结果如何？
 * 我的嘴歪了吗？
+* 干！
