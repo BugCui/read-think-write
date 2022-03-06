@@ -119,3 +119,4 @@ Read something, Think something, Write something !
 * 我的嘴歪了吗？
 * 干！
 * 六日幸福！
+* 学习！
