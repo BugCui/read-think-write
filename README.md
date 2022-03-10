@@ -120,3 +120,4 @@ Read something, Think something, Write something !
 * 干！
 * 六日幸福！
 * 学习！
+* 好几天没干了，太忙了！
