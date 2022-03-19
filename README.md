@@ -124,3 +124,4 @@ Read something, Think something, Write something !
 * 居家隔离进行时！
 * 加班，日了狗了!
 * 累得要命！
+* 希望疫情不要扩散！
