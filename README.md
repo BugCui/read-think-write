@@ -127,3 +127,4 @@ Read something, Think something, Write something !
 * 希望疫情不要扩散！
 * 今天打个卡!
 * 职场生存技能！
+* 进入学习模式！
