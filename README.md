@@ -128,3 +128,4 @@ Read something, Think something, Write something !
 * 今天打个卡!
 * 职场生存技能！
 * 进入学习模式！
+* 干！
