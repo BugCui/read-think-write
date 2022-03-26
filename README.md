@@ -130,3 +130,4 @@ Read something, Think something, Write something !
 * 进入学习模式！
 * 干！
 * 家庭羽毛球！
+* 学习，跑路@
