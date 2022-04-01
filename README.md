@@ -135,3 +135,4 @@ Read something, Think something, Write something !
 * 早日脱离苦海！
 * 学习！
 * kakaka@
+* 放假也不能停止学习！
