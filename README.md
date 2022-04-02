@@ -136,3 +136,4 @@ Read something, Think something, Write something !
 * 学习！
 * kakaka@
 * 放假也不能停止学习！
+* 马上放假，开心@
