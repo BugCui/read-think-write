@@ -139,3 +139,4 @@ Read something, Think something, Write something !
 * 马上放假，开心@
 * 学习，要学的东西还太多！
 * 去医院买教训吧！
+* hello，唐山！
