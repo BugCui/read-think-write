@@ -144,3 +144,4 @@ Read something, Think something, Write something !
 * 大数据误杀啊！
 * 26w访问量了！
 * 人生匆匆，今夕何年？
+* 未来可期，加油吧！
