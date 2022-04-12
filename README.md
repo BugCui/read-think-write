@@ -145,3 +145,4 @@ Read something, Think something, Write something !
 * 26w访问量了！
 * 人生匆匆，今夕何年？
 * 未来可期，加油吧！
+* 加油吧，少年！世界风云变幻！
