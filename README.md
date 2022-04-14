@@ -148,3 +148,4 @@ Read something, Think something, Write something !
 * 加油吧，少年！世界风云变幻！
 * 世界风云变幻！
 * 累！努力卷吧！
+* 学习，努力！
