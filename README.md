@@ -149,3 +149,4 @@ Read something, Think something, Write something !
 * 世界风云变幻！
 * 累！努力卷吧！
 * 学习，努力！
+* 坚持反Pua就对了!
