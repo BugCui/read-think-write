@@ -150,3 +150,4 @@ Read something, Think something, Write something !
 * 累！努力卷吧！
 * 学习，努力！
 * 坚持反Pua就对了!
+* 努力，用能力填补经验！
