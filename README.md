@@ -151,3 +151,4 @@ Read something, Think something, Write something !
 * 学习，努力！
 * 坚持反Pua就对了!
 * 努力，用能力填补经验！
+* 看来行业不太好呀！
