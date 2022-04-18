@@ -152,3 +152,4 @@ Read something, Think something, Write something !
 * 坚持反Pua就对了!
 * 努力，用能力填补经验！
 * 看来行业不太好呀！
+* 周一了，干！
