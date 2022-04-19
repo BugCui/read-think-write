@@ -153,3 +153,4 @@ Read something, Think something, Write something !
 * 努力，用能力填补经验！
 * 看来行业不太好呀！
 * 周一了，干！
+* 骑行15公里就是胀气，但很爽！
