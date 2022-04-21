@@ -155,3 +155,4 @@ Read something, Think something, Write something !
 * 周一了，干！
 * 骑行15公里就是胀气，但很爽！
 * 终于挑战了一会三十公里上下班，累并快乐着！
+* 入坑了，哎！
