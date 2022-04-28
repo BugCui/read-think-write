@@ -159,3 +159,4 @@ Read something, Think something, Write something !
 * 通过被拒不断思考，改进！
 * 坚持不懈！
 * 不想踏入互联网，想踏踏实实做点实事儿！
+* 踏踏实实学习、成长！
