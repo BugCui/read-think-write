@@ -161,3 +161,4 @@ Read something, Think something, Write something !
 * 不想踏入互联网，想踏踏实实做点实事儿！
 * 踏踏实实学习、成长！
 * 行业变天的时代！
+* 开启五一学习模式！
