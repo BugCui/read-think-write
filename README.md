@@ -162,3 +162,4 @@ Read something, Think something, Write something !
 * 踏踏实实学习、成长！
 * 行业变天的时代！
 * 开启五一学习模式！
+* 持续锻炼！
