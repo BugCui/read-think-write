@@ -164,3 +164,4 @@ Read something, Think something, Write something !
 * 开启五一学习模式！
 * 持续锻炼！
 * 继续努力，不要气馁！
+* 五一假期结束!
