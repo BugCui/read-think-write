@@ -175,3 +175,4 @@ Read something, Think something, Write something !
 * 千里迢迢来上班!
 * 干!
 * 疫情之下，上班如长征！
+* 周五好时光！
