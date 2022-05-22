@@ -177,3 +177,4 @@ Read something, Think something, Write something !
 * 疫情之下，上班如长征！
 * 周五好时光！
 * 封控开始，充实的一天！
+* 加油，加油，加油！
