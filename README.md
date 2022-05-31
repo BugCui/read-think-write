@@ -184,3 +184,4 @@ Read something, Think something, Write something !
 * 累~
 * 加班！
 * 加油吧！
+* 坚持！
