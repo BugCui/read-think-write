@@ -187,3 +187,4 @@ Read something, Think something, Write something !
 * 坚持！
 * 改bug！
 * 啥时候解封！
+* 拥抱变化！
