@@ -193,3 +193,4 @@ Read something, Think something, Write something !
 * 终于要解封了！
 * 复工大吉！
 * 唐山火了！
+* 新的开始！
