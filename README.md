@@ -194,3 +194,4 @@ Read something, Think something, Write something !
 * 复工大吉！
 * 唐山火了！
 * 新的开始！
+* 挺好！
