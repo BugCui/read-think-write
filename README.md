@@ -196,3 +196,4 @@ Read something, Think something, Write something !
 * 新的开始！
 * 挺好！
 * 每天都有惊喜！
+* 累！
