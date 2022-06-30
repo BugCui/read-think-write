@@ -198,3 +198,4 @@ Read something, Think something, Write something !
 * 每天都有惊喜！
 * 累！
 * 加油！
+* 累！
