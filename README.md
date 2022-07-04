@@ -199,3 +199,4 @@ Read something, Think something, Write something !
 * 累！
 * 加油！
 * 累！
+* 新的开始！
