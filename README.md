@@ -200,3 +200,4 @@ Read something, Think something, Write something !
 * 加油！
 * 累！
 * 新的开始！
+* 忙忙碌碌的一阵！总算闲下来点了！
