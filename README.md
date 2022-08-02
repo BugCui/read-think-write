@@ -201,3 +201,4 @@ Read something, Think something, Write something !
 * 累！
 * 新的开始！
 * 忙忙碌碌的一阵！总算闲下来点了！
+* 终于可以休息一阵了！
