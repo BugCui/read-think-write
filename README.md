@@ -202,3 +202,4 @@ Read something, Think something, Write something !
 * 新的开始！
 * 忙忙碌碌的一阵！总算闲下来点了！
 * 终于可以休息一阵了！
+* 入职1年3个月，总算升职了！
