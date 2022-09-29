@@ -204,3 +204,4 @@ Read something, Think something, Write something !
 * 终于可以休息一阵了！
 * 入职1年3个月，总算升职了！
 * 做了个大扫除，总算舒服多了！
+* 忙碌了一阵，终于能喘口气了！
