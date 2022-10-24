@@ -205,3 +205,4 @@ Read something, Think something, Write something !
 * 入职1年3个月，总算升职了！
 * 做了个大扫除，总算舒服多了！
 * 忙碌了一阵，终于能喘口气了！
+* 1024程序员节日快乐~
